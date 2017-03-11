@@ -1,0 +1,16 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/holo_purple"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="jake.tiranozavr.kamila.Fragment2">
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv">
+
+    </ListView>
+
+
+</RelativeLayout>

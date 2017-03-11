@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task2_Term2</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="add">Add</string>
+    <string name="date">Date</string>
+</resources>

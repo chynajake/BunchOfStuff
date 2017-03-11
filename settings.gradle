@@ -1,0 +1,1 @@
+include ':app', ':task2_term2', ':servicelesson', ':quiz1_term2', ':kamila'
